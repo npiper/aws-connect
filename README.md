@@ -262,7 +262,9 @@ https://aws.amazon.com/architecture/well-architected/
 
 https://docs.aws.amazon.com/connect/latest/adminguide/what-is-amazon-connect.html (Admin Guide)
 
+https://github.com/aws-samples/amazon-lex-connect-workshop
 
+https://github.com/aws-samples/amazon-connect-workshop
 
 
 # Cloud security standards
