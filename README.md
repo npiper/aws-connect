@@ -14,6 +14,7 @@ https://www.vtiger.com/insurance-crm/
 
 # Setting up a New Contact Centre
 
+![AWS Image](./AWS_Connect.png)
 
 ## Questions
 
